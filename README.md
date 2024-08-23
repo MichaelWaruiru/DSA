@@ -1,5 +1,5 @@
 Data Structures and Algorithms explained in Python from:
-## 1. Array
+##### 1. Array
 #### 2. Binary Search
 Linked list 
 Merge sort 

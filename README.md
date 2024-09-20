@@ -3,7 +3,7 @@ Data Structures and Algorithms explained in Python from:
 #### 2. Binary search
 #### 3. Linear search
 #### 4. Linked list
-#### 5. Linked list-Merge sort
-#### 6. Merge sort 
+#### 5. Merge sort
+#### 6. Linked list-Merge sort 
 #### 7. Recursive binary search
-#### 8. Traversals(Inorder, Preorder and Postorder )
+#### 8. Traversals(In-Order, Pre-Order and Post-Order )

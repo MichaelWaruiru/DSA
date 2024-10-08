@@ -10,3 +10,4 @@ Data Structures and Algorithms explained in Python from:
 #### 9. Heap
 #### 10. Queue
 #### 11. Deque
+#### 12. Stack

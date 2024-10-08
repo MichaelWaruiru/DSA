@@ -50,7 +50,7 @@ def max_sliding_window(nums, k):
   for i in range(len(nums)):
     # Remove indices that are out of the current window
     while dq and dq[0] < i - k + 1:
-      dq.popleft
+      dq.popleft()
 
     # Remove indices whose corresponding value are less than nums[i]
     while dq and nums[i] >= nums[dq[-1]]:
@@ -67,4 +67,4 @@ def max_sliding_window(nums, k):
 # Example
 nums = [1, 3, -1, -3, 5, 3, 6, 7]
 k = 3
-print(max_sliding_window(nums, k)) # Output: [3]
+print(max_sliding_window(nums, k)) # Output: [3, 3, 5, 5, 6, 7]

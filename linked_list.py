@@ -65,7 +65,7 @@ class LinkedList:
     def insert(self, data, index):
         """
         Inserts a new node containing data at index position
-        Insertion takes  O(1) time bu finding the node a the
+        Insertion takes  O(1) time but finding the node at the
         insertion point takes O(n) time
 
         Takes overall O(n) time
